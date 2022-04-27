@@ -12,10 +12,16 @@
 
 ### Application Using Hibernate Mapping Collections
 
-1. In this Experiment Direclty query het fired and results get added into the database/tablename that we've selectd in code
+1. Create Java Project not Dynamic Web Project
+2. In this Experiment Direclty query get fired and results get added into the database/tablename that we've selectd in code
 
 ![Screenshot from 2022-04-27 23-25-36](https://user-images.githubusercontent.com/73512374/165590115-ed562632-8488-4f87-8f8b-eddf372caa99.png)
 
 Hence Below queries can be run
 
 ![image](https://user-images.githubusercontent.com/73512374/165592540-2a670dd7-bc83-42aa-a52a-71d5b4a155a5.png)
+
+### Hello World of Spring
+
+![image](https://user-images.githubusercontent.com/73512374/165593264-7b4483a3-e214-40b4-bf19-1ff36b2775e2.png)
+ And Run MainApp.java file
